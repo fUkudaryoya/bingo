@@ -1,5 +1,6 @@
 # bingo
 -プログラミング言語：Python
+
 -GUIライブラリ：Tkinter
 
 #使用方法
